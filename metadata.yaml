@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/486
     wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18062#Stories-of-Ships-and-the-Sea--13-Little-Blue-Book---1169
 gutenberg_issued: '2006-03-27'
 gutenberg_type: Text
 identifiers:
