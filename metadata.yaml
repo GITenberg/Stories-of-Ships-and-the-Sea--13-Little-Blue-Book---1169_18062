@@ -1,0 +1,41 @@
+_repo: Stories-of-Ships-and-the-Sea--13-Little-Blue-Book---1169_18062
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+  editor:
+    agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Haldeman-Julius, Emanuel
+    - Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories, American'
+- !lcsh 'Ships -- Fiction'
+- !lcc 'PS'
+tableOfContents: "Chris Farrington: Able Seaman\r\nTyphoon Off the Coast of Japan\r\
+  \nThe Lost Poacher\r\nThe Banks of the Sacramento\r\nIn Yeddo Bay."
+title: "Stories of Ships and the Sea\r\nLittle Blue Book # 1169"
+url: http://www.gutenberg.org/ebooks/18062
